@@ -1,0 +1,22 @@
+{
+  "name": "textpipe",
+  "version": "0.0.0",
+  "description": "pipe for command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://naosim@github.com/naosim/textpipe.git"
+  },
+  "author": "naosim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naosim/textpipe/issues"
+  },
+  "homepage": "https://github.com/naosim/textpipe",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
